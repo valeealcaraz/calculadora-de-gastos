@@ -29,7 +29,7 @@
 .Totales (gastos, ganancias y balances) por mes
 - Se guardan los datos en el almacenamiento local del navegador (Local Storage)
 
-### 🖥️ Deployado [aquí](https://lourdeslunaweb.github.io/ahorrADAs/)
+### 🖥️ Deployado [aquí](https://valeealcaraz.github.io/calculadora-de-gastos/)
 
 ### 🚀 Tecnologías utilizadas:
 - HTML5
